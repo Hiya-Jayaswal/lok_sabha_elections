@@ -10,5 +10,8 @@ Thus the data is shown in form of bar graph and pie chart as follows:
 BAR GRAPH:
 ![image](https://github.com/Hiya-Jayaswal/lok_sabha_elections/assets/121180156/e554e4e7-ef5c-40e6-85bd-12152aafceda)
 
+
+
+
 PIE CHART:
 ![image](https://github.com/Hiya-Jayaswal/lok_sabha_elections/assets/121180156/2a817a62-3aba-4b6c-895d-76e3640ed8c0)
