@@ -14,4 +14,7 @@ BAR GRAPH:
 
 
 PIE CHART:
+
+
+
 ![image](https://github.com/Hiya-Jayaswal/lok_sabha_elections/assets/121180156/2a817a62-3aba-4b6c-895d-76e3640ed8c0)
